@@ -18,3 +18,4 @@ Note: {score} is a password strength score calculated using library https://gith
 
 Added using composer if it not working properly please use composer update
 
+Added a provision to change the Email and default password attempts on backend
