@@ -1,0 +1,8 @@
+/*================ Admin Css ==============*/
+.wptst_admin_page h2{color: #1978db;-webkit-text-fill-color: #1978db;line-height: initial;font-family: "Open Sans",sans-serif;font-weight: 800 !important;
+  display: block;background: #f6f6f6;padding: 15px !important;border-bottom: 1px solid #eaeaea;text-transform: uppercase; margin-right: 0;margin: 0;}
+.wptst_admin_page {background: #fff;display: block;border: 1px solid #eaeaea;position: relative;top: 25px;margin: 10px 20px 0 2px;}
+.wptst_admin_page .narrow {padding: 1%;}
+.p_color{color: #ff0000;}
+.wptst_admin_page .button{background: #1978db !important;color:#fff;padding:5px;font-size: 14px;}
+.wptst_text_class{width:25%;}
